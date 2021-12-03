@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/book-calculator", {data:[{}],fetch:{},mutations:void 0});

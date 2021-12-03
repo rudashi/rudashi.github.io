@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/orwell-android-app", {data:[{}],fetch:{},mutations:void 0});
