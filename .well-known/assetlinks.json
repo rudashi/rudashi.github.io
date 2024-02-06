@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pl.com.totem.orwell",
+      "sha256_cert_fingerprints": [
+        "DB:BA:39:60:34:BB:95:7F:7A:4E:B1:05:88:90:52:D9:10:80:76:08:DC:05:EF:D3:15:ED:B0:AD:3A:18:4F:FE"
+      ]
+    }
+  }
+]
